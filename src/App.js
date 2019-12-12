@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img width="250px" height="250px" src={ucPic} alt="Under Construction Image"/>
+        <img width="250px" height="250px" src={ucPic}/>
         <p>
           Bookudu Under Construction
         </p>
